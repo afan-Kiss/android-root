@@ -36,8 +36,10 @@ if ($GitArgs.Count -eq 0) {
     }
     & git -C $root push (Get-AuthUrl $remote)
 } elseif ($GitArgs[0] -eq "push") {
+    $setUpstream = $GitArgs -contains "-u" -or $GitArgs -contains "--set-upstream"
     $newArgs = @("push")
     for ($i = 1; $i -lt $GitArgs.Count; $i++) {
+        if ($GitArgs[$i] -in @("-u", "--set-upstream")) { continue }
         if ($GitArgs[$i] -eq "origin" -or $GitArgs[$i] -like "https://github.com/*") {
             $url = if ($GitArgs[$i] -eq "origin") { git -C $root remote get-url origin } else { $GitArgs[$i] }
             $newArgs += Get-AuthUrl $url
@@ -46,6 +48,12 @@ if ($GitArgs.Count -eq 0) {
         }
     }
     & git -C $root @newArgs
+    if ($LASTEXITCODE -eq 0 -and $setUpstream) {
+        $branch = git -C $root rev-parse --abbrev-ref HEAD
+        git -C $root config branch.$branch.remote origin
+        git -C $root branch --set-upstream-to=origin/$branch $branch 2>$null
+    }
+    exit $LASTEXITCODE
 } else {
     & git -C $root @GitArgs
 }
