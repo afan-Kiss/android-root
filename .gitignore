@@ -1,0 +1,5 @@
+hs_err_pid*.log
+replay_pid*.log
+
+# 凭据仅保留在本地，GitHub 会拦截推送 token
+api_key

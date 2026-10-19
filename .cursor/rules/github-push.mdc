@@ -1,0 +1,31 @@
+---
+description: GitHub 推送必须使用项目内 api_key，禁止向用户索要 token
+alwaysApply: true
+---
+
+# GitHub 推送凭据
+
+本项目已配置 GitHub PAT，**禁止再向用户索要 token**。
+
+## 凭据位置
+
+- 文件：项目根目录 `api_key`
+- 格式：`api_key=github_pat_...`
+
+## 推送方式（任选其一）
+
+1. **推荐**：运行 `.\push-github.ps1` 或 `.\push-github.ps1 push -u origin main`
+2. **直接 git**：仓库已配置本地 `credential.helper`，在项目目录内执行 `git push` 即可自动读取 `api_key`
+
+## 添加远程仓库示例
+
+```powershell
+git remote add origin https://github.com/用户名/仓库名.git
+.\push-github.ps1 push -u origin main
+```
+
+## 注意
+
+- 永远不要再问用户 GitHub token
+- 推送、创建 PR、gh 命令需要认证时，从 `api_key` 读取
+- `api_key` 仅保存在本地（已加入 `.gitignore`），GitHub 会拦截含 token 的推送
