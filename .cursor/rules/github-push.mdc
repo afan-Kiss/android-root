@@ -15,7 +15,10 @@ alwaysApply: true
 ## 推送方式（任选其一）
 
 1. **推荐**：运行 `.\push-github.ps1` 或 `.\push-github.ps1 push -u origin main`
-2. **直接 git**：仓库已配置本地 `credential.helper`，在项目目录内执行 `git push` 即可自动读取 `api_key`
+2. **拉取/获取**：`.\push-github.ps1 pull origin` 或 `.\push-github.ps1 fetch origin`
+3. **GitHub CLI**：`.\push-github.ps1 gh repo view`（自动注入 `GH_TOKEN`）
+4. **直接 git**：先运行一次 `.\setup-git-auth.ps1`，之后 `git push` / `git pull` 会自动读取 `api_key`
+5. **帮助**：`.\push-github.ps1 help`
 
 ## 添加远程仓库示例
 

@@ -1,0 +1,37 @@
+{
+  "appId": "1128",
+  "packageName": "com.ss.android.ugc.aweme",
+  "appVersion": "40.7.0",
+  "channel": "googleplay",
+  "sdkVersion": "v05.02.09-alpha.3",
+  "license": "",
+  "deviceId": "7123456789012345678",
+  "installId": "7123456789012345679",
+  "androidId": "0123456789abcdef",
+  "hostAbi": "arm64-v8a",
+  "userAgent": "",
+  "apiHost": "https://api5-normal.amemv.com",
+  "build": {
+    "brand": "google",
+    "manufacturer": "google",
+    "model": "Pixel 6",
+    "device": "oriole",
+    "product": "oriole",
+    "hardware": "oriole",
+    "fingerprint": "google/oriole/oriole:12/SP2A.220505.002/8353555:user/release-keys",
+    "display": "SP2A.220505.002",
+    "id": "SP2A.220505.002",
+    "release": "12",
+    "codename": "REL",
+    "security_patch": "2022-05-05",
+    "sdk_int": 31
+  },
+  "display": {
+    "resolution": "1080x2400",
+    "dpi": 420
+  },
+  "mssdkPrefs": {},
+  "appRegisterConfig": null,
+  "versionCode": "400701",
+  "openudid": ""
+}

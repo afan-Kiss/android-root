@@ -1,0 +1,20 @@
+{
+  "ok": false,
+  "device_id": "1782779405691530",
+  "install_id": "1782779405695626",
+  "fresh_wire_len": 0,
+  "wire_key": "",
+  "wire_len": 0,
+  "wire_hex": "",
+  "sdi_hex": "",
+  "wire_sdi_hex": "",
+  "sign_headers": {},
+  "wire_bodies": {},
+  "samples": [],
+  "msb_log": [],
+  "metasec_base": "",
+  "passive_only": true,
+  "wire_verify_rows": [],
+  "inner_py_len": 505,
+  "inner_py_head": "0a08216e6f747365742112074f6e65506c75731a0650475a3131302208216e6f"
+}

@@ -1,0 +1,6 @@
+[
+  {
+    "kind": "hooked",
+    "target": "MS.a OP_DECRYPT_STR"
+  }
+]

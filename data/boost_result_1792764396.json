@@ -1,0 +1,17 @@
+{
+  "room_id": "7699816673754221322",
+  "mode": "register",
+  "workers": 1,
+  "watch_sec": 15,
+  "stats": {
+    "workers_alive": 0,
+    "register_ok": 1,
+    "register_fail": 0,
+    "enter_ok": 0,
+    "enter_fail": 1,
+    "watch_ok": 0,
+    "watch_fail": 1,
+    "pings": 0
+  },
+  "pool_verified": 2
+}

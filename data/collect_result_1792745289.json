@@ -1,0 +1,21 @@
+{
+  "machine_id": "DESKTOP-PPOBV27",
+  "client": {
+    "workers_alive": 0,
+    "pages": 0,
+    "raw_items": 0,
+    "local_unique": 0,
+    "reported": 0,
+    "report_batches": 0,
+    "register_ok": 0,
+    "register_fail": 1,
+    "feed_errors": 0,
+    "report_errors": 0
+  },
+  "server": {
+    "unique_rooms": 1,
+    "total_extractions": 1,
+    "db_path": "E:\\我的源码目录\\安卓ROOT\\data\\live_collect.db",
+    "ok": true
+  }
+}

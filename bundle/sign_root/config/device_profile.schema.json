@@ -1,0 +1,143 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Douyin MetaSec Device Profile",
+  "type": "object",
+  "required": [
+    "appId",
+    "deviceId",
+    "installId"
+  ],
+  "properties": {
+    "appId": {
+      "type": "string",
+      "description": "抖音 aid，通常 1128"
+    },
+    "packageName": {
+      "type": "string",
+      "default": "com.ss.android.ugc.aweme"
+    },
+    "appVersion": {
+      "type": "string",
+      "description": "version_name，从 APK 和真机读取"
+    },
+    "channel": {
+      "type": "string",
+      "default": "googleplay"
+    },
+    "sdkVersion": {
+      "type": "string",
+      "description": "MSSDK 版本字符串"
+    },
+    "license": {
+      "type": "string",
+      "description": "OP_APP_REGISTER 用的 license blob；真机抓取后填入"
+    },
+    "deviceId": {
+      "type": "string"
+    },
+    "installId": {
+      "type": "string"
+    },
+    "androidId": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{16}$"
+    },
+    "hostAbi": {
+      "type": "string",
+      "default": "arm64-v8a"
+    },
+    "userAgent": {
+      "type": "string"
+    },
+    "apiHost": {
+      "type": "string",
+      "default": "https://api5-normal.amemv.com"
+    },
+    "build": {
+      "type": "object",
+      "properties": {
+        "brand": {
+          "type": "string"
+        },
+        "manufacturer": {
+          "type": "string"
+        },
+        "model": {
+          "type": "string"
+        },
+        "device": {
+          "type": "string"
+        },
+        "product": {
+          "type": "string"
+        },
+        "hardware": {
+          "type": "string"
+        },
+        "fingerprint": {
+          "type": "string"
+        },
+        "display": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "release": {
+          "type": "string"
+        },
+        "sdk_int": {
+          "type": "integer"
+        },
+        "security_patch": {
+          "type": "string"
+        },
+        "codename": {
+          "type": "string"
+        }
+      }
+    },
+    "display": {
+      "type": "object",
+      "properties": {
+        "resolution": {
+          "type": "string"
+        },
+        "dpi": {
+          "type": "integer"
+        }
+      }
+    },
+    "mssdkPrefs": {
+      "type": "object",
+      "description": "SharedPreferences 键值；sdi 为 ids blob，其余键名与真机一致",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "msdataPath": {
+      "type": "string",
+      "description": "真机抓取的 files/.msdata 目录（40.7+ native MSSDK 加密存储）"
+    },
+    "appRegisterConfig": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "description": "完整 OP_APP_REGISTER JSON 数组；真机 dump 后直接粘贴",
+      "minItems": 15
+    },
+    "versionCode": {
+      "type": "string"
+    },
+    "manifestVersionCode": {
+      "type": "string"
+    },
+    "updateVersionCode": {
+      "type": "string"
+    },
+    "openudid": {
+      "type": "string"
+    }
+  }
+}

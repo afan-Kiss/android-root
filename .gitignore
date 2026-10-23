@@ -3,3 +3,18 @@ replay_pid*.log
 
 # 凭据仅保留在本地，GitHub 会拦截推送 token
 api_key
+server.env
+
+# Python / 构建产物
+__pycache__/
+*.pyc
+build/
+dist/
+
+# 日志与临时输出
+*.log
+_*_test/
+_*_test2/
+_*_test_out.txt
+_*_probe.txt
+_feed_*.txt

@@ -1,0 +1,63 @@
+﻿python : [retry] 1/3 failed (device_id=0 on all hosts (rate_limited_or_rejected)), wait 8s ...
+所在位置 C:\Users\饭饭\AppData\Local\Temp\ps-script-e8dc5a7a-9bb1-4cac-bbc2-e15c6a344991.ps1:92 字符: 65
++ ... nv:PYTHONIOENCODING='utf-8'; python _test_live_square.py 2>&1 | Out-F ...
++                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([retry] 1/3 fai...)), wait 8s ...:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+[retry] 2/3 failed (device_id=0 on all hosts (rate_limited_or_rejected)), wait 8s ...
+=== WEB FEED ===
+{
+  "status": 200,
+  "rooms": [
+    {
+      "room_id": "7699732111019789065",
+      "status": 2,
+      "title": "鍦ㄦ鍥戒竴甯稿皬濞ユ暀浣犺汉鐫€鍚冮浮",
+      "nickname": "涓€鑼楋紙鐜嬭€呬竾璞℃锛?,
+      "user_count": 2144
+    },
+    {
+      "room_id": "7699716362188360489",
+      "status": 2,
+      "title": "鍦ㄧ瓑涓€涓拺鑵扮殑浜哄嚭鐜?,
+      "nickname": "娓╂殩濮愬鈦碘伆虏",
+      "user_count": 68
+    },
+    {
+      "room_id": "7699587826219879202",
+      "status": 2,
+      "title": "涓夎娲叉挒杞︼紒鐐逛寒鏀惰棌瀹わ紒鎾炲ぇ绾紒鏀堕泦鑰咃紒鎵戝厠鐗?鏉冩潠楸?,
+      "nickname": "浠插熀锛堜笁瑙掓床锛?,
+      "user_count": 1471
+    },
+    {
+      "room_id": "7699750586002393896",
+      "status": 2,
+      "title": "lol寮€鏁达紝閲戠墝璁插笀鏁欏涓紒",
+      "nickname": "澶у徃椹?,
+      "user_count": 21577
+    },
+    {
+      "room_id": "7699724276743621416",
+      "status": 2,
+      "title": "鍞辨瓕缁欎綘鍚?,
+      "nickname": "鏅忔兜 姘戞瓕锛?0.23鐢熸棩鐗堬級",
+      "user_count": 13
+    }
+  ],
+  "total": 6
+}
+=== REGISTER + SIGNED ===
+Traceback (most recent call last):
+  File "E:\鎴戠殑婧愮爜鐩綍\瀹夊崜ROOT\_test_live_square.py", line 80, in <module>
+    main()
+  File "E:\鎴戠殑婧愮爜鐩綍\瀹夊崜ROOT\_test_live_square.py", line 67, in main
+    reg = register_with_retry(profile, retries=3, delay=8.0, proxies=px, timeout=25)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\douyin-android-sign\scripts\device_register.py", line 139, in register_with_retry
+    return register_once(profile, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\douyin-android-sign\scripts\device_register.py", line 132, in register_once
+    raise RuntimeError("device_id=0 on all hosts (rate_limited_or_rejected)")
+RuntimeError: device_id=0 on all hosts (rate_limited_or_rejected)

@@ -1,0 +1,19 @@
+{
+  "serial": "XWEEVKY9QCVKW4R4",
+  "cookie": "sessionid=7f0ac55297432ba5fc62843a63fee863; sessionid_ss=7f0ac55297432ba5fc62843a63fee863; sid_tt=7f0ac55297432ba5fc62843a63fee863; uid_tt=7c3ad090e5dbbe2799db2fadca4dbdf3; uid_tt_ss=7c3ad090e5dbbe2799db2fadca4dbdf3; odin_tt=6b1db36332f7a6923a5ddab2c9c5e991e41491e26acb09535d643dc376ccc578c1795bc7ccf2b200f1139d374db0a5f8a68d530e4711ec9756ac64dc01b6d9499988be7d4ec24045519a38869091637e; ttreq=1$7e52dd52d2fed67259dbeacdb499ca23432b925a; sid_guard=7f0ac55297432ba5fc62843a63fee863%7C1792570411%7C5184000%7CSun%2C+20-Dec-2026+08%3A13%3A31+GMT; d_ticket=819bf70303d6b58dd04f6a7f16ed38cdfd358; multi_sids=2834991138218856%3A7f0ac55297432ba5fc62843a63fee863",
+  "fields": {
+    "d_ticket": "819bf70303d6b58dd04f6a7f16ed38cdfd358",
+    "multi_sids": "2834991138218856%3A7f0ac55297432ba5fc62843a63fee863",
+    "odin_tt": "6b1db36332f7a6923a5ddab2c9c5e991e41491e26acb09535d643dc376ccc578c1795bc7ccf2b200f1139d374db0a5f8a68d530e4711ec9756ac64dc01b6d9499988be7d4ec24045519a38869091637e",
+    "sessionid": "7f0ac55297432ba5fc62843a63fee863",
+    "sessionid_ss": "7f0ac55297432ba5fc62843a63fee863",
+    "sid_guard": "7f0ac55297432ba5fc62843a63fee863%7C1792570411%7C5184000%7CSun%2C+20-Dec-2026+08%3A13%3A31+GMT",
+    "sid_tt": "7f0ac55297432ba5fc62843a63fee863",
+    "ttreq": "1$7e52dd52d2fed67259dbeacdb499ca23432b925a",
+    "uid_tt": "7c3ad090e5dbbe2799db2fadca4dbdf3",
+    "uid_tt_ss": "7c3ad090e5dbbe2799db2fadca4dbdf3"
+  },
+  "sources": [
+    "webview_sqlite_full"
+  ]
+}

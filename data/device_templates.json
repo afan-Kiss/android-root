@@ -1,0 +1,577 @@
+[
+  {
+    "name": "Xiaomi 15",
+    "channel": "xiaomi",
+    "build": {
+      "brand": "Xiaomi",
+      "manufacturer": "Xiaomi",
+      "model": "24129PN74C",
+      "device": "houji",
+      "product": "houji",
+      "hardware": "qcom",
+      "fingerprint": "Xiaomi/houji/houji:15/AQ3A.240912.001/V816.0.11.0.UNCCNXM:user/release-keys",
+      "display": "AQ3A.240912.001",
+      "id": "AQ3A.240912.001",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1200x2670",
+      "dpi": 460
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; 24129PN74C Build/AQ3A.240912.001)"
+  },
+  {
+    "name": "Xiaomi 15 Ultra",
+    "channel": "xiaomi",
+    "build": {
+      "brand": "Xiaomi",
+      "manufacturer": "Xiaomi",
+      "model": "25010PN30C",
+      "device": "xuanyuan",
+      "product": "xuanyuan",
+      "hardware": "qcom",
+      "fingerprint": "Xiaomi/xuanyuan/xuanyuan:15/AQ3A.241006.001/V816.0.3.0.UNACNXM:user/release-keys",
+      "display": "AQ3A.241006.001",
+      "id": "AQ3A.241006.001",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-02-01"
+    },
+    "display": {
+      "resolution": "1440x3200",
+      "dpi": 560
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; 25010PN30C Build/AQ3A.241006.001)"
+  },
+  {
+    "name": "Redmi K80 Pro",
+    "channel": "xiaomi",
+    "build": {
+      "brand": "Redmi",
+      "manufacturer": "Xiaomi",
+      "model": "24117RK2CC",
+      "device": "miro",
+      "product": "miro",
+      "hardware": "qcom",
+      "fingerprint": "Redmi/miro/miro:15/AQ3A.240912.001/V816.0.5.0.UNLMNXM:user/release-keys",
+      "display": "AQ3A.240912.001",
+      "id": "AQ3A.240912.001",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1440x3200",
+      "dpi": 526
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; 24117RK2CC Build/AQ3A.240912.001)"
+  },
+  {
+    "name": "vivo X200 Pro mini",
+    "channel": "vivo",
+    "build": {
+      "brand": "vivo",
+      "manufacturer": "vivo",
+      "model": "V2429A",
+      "device": "PD2429",
+      "product": "PD2429",
+      "hardware": "mt6991",
+      "fingerprint": "vivo/PD2429/PD2429:15/AP3A.240617.008/compiler06201442:user/release-keys",
+      "display": "PD2429_A_15.0.12.0.W10",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-05"
+    },
+    "display": {
+      "resolution": "1216x2640",
+      "dpi": 460
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; V2429A Build/AP3A.240617.008)"
+  },
+  {
+    "name": "vivo X200 Pro",
+    "channel": "vivo",
+    "build": {
+      "brand": "vivo",
+      "manufacturer": "vivo",
+      "model": "V2405A",
+      "device": "PD2405",
+      "product": "PD2405",
+      "hardware": "mt6991",
+      "fingerprint": "vivo/PD2405/PD2405:15/AP3A.240617.008/compiler06181430:user/release-keys",
+      "display": "PD2405_A_15.0.10.0.W10",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-05"
+    },
+    "display": {
+      "resolution": "1260x2800",
+      "dpi": 480
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; V2405A Build/AP3A.240617.008)"
+  },
+  {
+    "name": "OPPO Find X8 Pro",
+    "channel": "oppo",
+    "build": {
+      "brand": "OPPO",
+      "manufacturer": "OPPO",
+      "model": "PKC110",
+      "device": "OP5A0BL1",
+      "product": "PKC110",
+      "hardware": "qcom",
+      "fingerprint": "OPPO/PKC110/OP5A0BL1:15/AP3A.240617.008/U.R4T2.1f972c2_1f972c2:user/release-keys",
+      "display": "PKC110_15.0.0.850(CN01)",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1264x2780",
+      "dpi": 480
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; PKC110 Build/AP3A.240617.008)"
+  },
+  {
+    "name": "OPPO Find X8s",
+    "channel": "oppo",
+    "build": {
+      "brand": "OPPO",
+      "manufacturer": "OPPO",
+      "model": "PKD110",
+      "device": "OP5A3BL1",
+      "product": "PKD110",
+      "hardware": "mt6899",
+      "fingerprint": "OPPO/PKD110/OP5A3BL1:15/AP3A.240617.008/U.R4T2.1e8a3c2_1e8a3c2:user/release-keys",
+      "display": "PKD110_15.0.0.720(CN01)",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-02-01"
+    },
+    "display": {
+      "resolution": "1200x2670",
+      "dpi": 460
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; PKD110 Build/AP3A.240617.008)"
+  },
+  {
+    "name": "OnePlus 13",
+    "channel": "oppo",
+    "build": {
+      "brand": "OnePlus",
+      "manufacturer": "OnePlus",
+      "model": "PJZ110",
+      "device": "OP5929L1",
+      "product": "PJZ110",
+      "hardware": "qcom",
+      "fingerprint": "OnePlus/PJZ110/OP5929L1:15/AP3A.240617.008/S.1a8c0c2-1-2:user/release-keys",
+      "display": "PJZ110_15.0.0.910(CN01)",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1440x3168",
+      "dpi": 510
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; PJZ110 Build/AP3A.240617.008)"
+  },
+  {
+    "name": "OnePlus Ace 5",
+    "channel": "oppo",
+    "build": {
+      "brand": "OnePlus",
+      "manufacturer": "OnePlus",
+      "model": "PGZ110",
+      "device": "OP5911",
+      "product": "PGZ110",
+      "hardware": "mt6895",
+      "fingerprint": "OnePlus/PGZ110/OP5911:15/AP3A.240617.008/S.220ffe6-1-10985e:user/release-keys",
+      "display": "PGZ110_15.0.0.1600(CN01)",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2026-01-01"
+    },
+    "display": {
+      "resolution": "1080x2246",
+      "dpi": 480
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; PGZ110 Build/AP3A.240617.008)"
+  },
+  {
+    "name": "Huawei Mate 70 Pro+",
+    "channel": "huawei",
+    "build": {
+      "brand": "HUAWEI",
+      "manufacturer": "HUAWEI",
+      "model": "ADY-AL00",
+      "device": "HWADY",
+      "product": "ADY-AL00",
+      "hardware": "kirin",
+      "fingerprint": "HUAWEI/ADY-AL00/HWADY:12/HUAWEIADY-AL00/102.0.0.180(C00E180R4P6):user/release-keys",
+      "display": "ADY-AL00 12.0.0.180(C00E180R4P6)",
+      "id": "HUAWEIADY-AL00",
+      "release": "12",
+      "sdk_int": 31,
+      "security_patch": "2024-12-01"
+    },
+    "display": {
+      "resolution": "1316x2832",
+      "dpi": 460
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 12; ADY-AL00 Build/HUAWEIADY-AL00)"
+  },
+  {
+    "name": "Huawei Pura 70 Pro",
+    "channel": "huawei",
+    "build": {
+      "brand": "HUAWEI",
+      "manufacturer": "HUAWEI",
+      "model": "HBN-AL00",
+      "device": "HWHBN",
+      "product": "HBN-AL00",
+      "hardware": "kirin",
+      "fingerprint": "HUAWEI/HBN-AL00/HWHBN:12/HUAWEIHBN-AL00/102.0.0.156(C00E156R4P6):user/release-keys",
+      "display": "HBN-AL00 12.0.0.156(C00E156R4P6)",
+      "id": "HUAWEIHBN-AL00",
+      "release": "12",
+      "sdk_int": 31,
+      "security_patch": "2024-10-01"
+    },
+    "display": {
+      "resolution": "1256x2760",
+      "dpi": 460
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 12; HBN-AL00 Build/HUAWEIHBN-AL00)"
+  },
+  {
+    "name": "Honor Magic7 Pro",
+    "channel": "honor",
+    "build": {
+      "brand": "HONOR",
+      "manufacturer": "HONOR",
+      "model": "BVL-AN00",
+      "device": "HNBVL",
+      "product": "BVL-AN00",
+      "hardware": "qcom",
+      "fingerprint": "HONOR/BVL-AN00/HNBVL:15/AP3A.240617.008/8.0.0.180(C00E180R4P6):user/release-keys",
+      "display": "BVL-AN00 8.0.0.180(C00E180R4P6)",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1280x2800",
+      "dpi": 480
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; BVL-AN00 Build/AP3A.240617.008)"
+  },
+  {
+    "name": "Samsung Galaxy S25",
+    "channel": "googleplay",
+    "build": {
+      "brand": "samsung",
+      "manufacturer": "samsung",
+      "model": "SM-S9310",
+      "device": "pa1q",
+      "product": "pa1qzcx",
+      "hardware": "qcom",
+      "fingerprint": "samsung/pa1qzcx/pa1q:15/AP3A.240905.015.A2/S9310ZCS1AYB3:user/release-keys",
+      "display": "AP3A.240905.015.A2",
+      "id": "AP3A.240905.015.A2",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-02-01"
+    },
+    "display": {
+      "resolution": "1080x2340",
+      "dpi": 420
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; SM-S9310 Build/AP3A.240905.015.A2)"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "channel": "googleplay",
+    "build": {
+      "brand": "samsung",
+      "manufacturer": "samsung",
+      "model": "SM-S9280",
+      "device": "e3q",
+      "product": "e3qzcx",
+      "hardware": "qcom",
+      "fingerprint": "samsung/e3qzcx/e3q:14/UP1A.231005.007/S9280ZCS4AXK1:user/release-keys",
+      "display": "UP1A.231005.007",
+      "id": "UP1A.231005.007",
+      "release": "14",
+      "sdk_int": 34,
+      "security_patch": "2024-12-01"
+    },
+    "display": {
+      "resolution": "1440x3120",
+      "dpi": 505
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 14; SM-S9280 Build/UP1A.231005.007)"
+  },
+  {
+    "name": "iQOO 13",
+    "channel": "vivo",
+    "build": {
+      "brand": "iQOO",
+      "manufacturer": "vivo",
+      "model": "V2329A",
+      "device": "PD2329",
+      "product": "PD2329",
+      "hardware": "qcom",
+      "fingerprint": "iQOO/PD2329/PD2329:15/AP3A.240617.008/compiler11201430:user/release-keys",
+      "display": "PD2329_A_15.0.8.0.W10",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1440x3168",
+      "dpi": 510
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; V2329A Build/AP3A.240617.008)"
+  },
+  {
+    "name": "realme GT7 Pro",
+    "channel": "oppo",
+    "build": {
+      "brand": "realme",
+      "manufacturer": "realme",
+      "model": "RMX5010",
+      "device": "RE5C4FL1",
+      "product": "RMX5010",
+      "hardware": "qcom",
+      "fingerprint": "realme/RMX5010/RE5C4FL1:15/AP3A.240617.008/RMX5010_15.0.0.500(EX01):user/release-keys",
+      "display": "RMX5010_15.0.0.500(EX01)",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1440x3168",
+      "dpi": 510
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; RMX5010 Build/AP3A.240617.008)"
+  },
+  {
+    "name": "Xiaomi 14",
+    "channel": "xiaomi",
+    "build": {
+      "brand": "Xiaomi",
+      "manufacturer": "Xiaomi",
+      "model": "23127PN0CC",
+      "device": "shennong",
+      "product": "shennong",
+      "hardware": "qcom",
+      "fingerprint": "Xiaomi/shennong/shennong:14/UKQ1.231108.001/V816.0.4.0.UNCCNXM:user/release-keys",
+      "display": "UKQ1.231108.001",
+      "id": "UKQ1.231108.001",
+      "release": "14",
+      "sdk_int": 34,
+      "security_patch": "2024-11-01"
+    },
+    "display": {
+      "resolution": "1200x2670",
+      "dpi": 460
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 14; 23127PN0CC Build/UKQ1.231108.001)"
+  },
+  {
+    "name": "Redmi Note 14 Pro+",
+    "channel": "xiaomi",
+    "build": {
+      "brand": "Redmi",
+      "manufacturer": "Xiaomi",
+      "model": "24115RA8EC",
+      "device": "gold",
+      "product": "gold",
+      "hardware": "mt6897",
+      "fingerprint": "Redmi/gold/gold:14/UP1A.231005.007/V816.0.2.0.UNGMNXM:user/release-keys",
+      "display": "UP1A.231005.007",
+      "id": "UP1A.231005.007",
+      "release": "14",
+      "sdk_int": 34,
+      "security_patch": "2024-12-01"
+    },
+    "display": {
+      "resolution": "1220x2712",
+      "dpi": 446
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 14; 24115RA8EC Build/UP1A.231005.007)"
+  },
+  {
+    "name": "OPPO Reno13 Pro",
+    "channel": "oppo",
+    "build": {
+      "brand": "OPPO",
+      "manufacturer": "OPPO",
+      "model": "PKK110",
+      "device": "OP5A1BL1",
+      "product": "PKK110",
+      "hardware": "mt6897",
+      "fingerprint": "OPPO/PKK110/OP5A1BL1:15/AP3A.240617.008/U.R4T2.1c7a2b1_1c7a2b1:user/release-keys",
+      "display": "PKK110_15.0.0.600(CN01)",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1272x2772",
+      "dpi": 480
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; PKK110 Build/AP3A.240617.008)"
+  },
+  {
+    "name": "vivo S20 Pro",
+    "channel": "vivo",
+    "build": {
+      "brand": "vivo",
+      "manufacturer": "vivo",
+      "model": "V2430A",
+      "device": "PD2430",
+      "product": "PD2430",
+      "hardware": "mt6897",
+      "fingerprint": "vivo/PD2430/PD2430:15/AP3A.240617.008/compiler01101420:user/release-keys",
+      "display": "PD2430_A_15.0.6.0.W10",
+      "id": "AP3A.240617.008",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1260x2800",
+      "dpi": 480
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; V2430A Build/AP3A.240617.008)"
+  },
+  {
+    "name": "Meizu 21 Pro",
+    "channel": "googleplay",
+    "build": {
+      "brand": "meizu",
+      "manufacturer": "Meizu",
+      "model": "M481Q",
+      "device": "m481q",
+      "product": "m481q",
+      "hardware": "qcom",
+      "fingerprint": "meizu/m481q/m481q:14/UKQ1.240116.001/1743520500:user/release-keys",
+      "display": "UKQ1.240116.001",
+      "id": "UKQ1.240116.001",
+      "release": "14",
+      "sdk_int": 34,
+      "security_patch": "2024-10-01"
+    },
+    "display": {
+      "resolution": "1368x3192",
+      "dpi": 520
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 14; M481Q Build/UKQ1.240116.001)"
+  },
+  {
+    "name": "Nothing Phone (3)",
+    "channel": "googleplay",
+    "build": {
+      "brand": "Nothing",
+      "manufacturer": "Nothing",
+      "model": "A065",
+      "device": "Pong",
+      "product": "Pong",
+      "hardware": "qcom",
+      "fingerprint": "Nothing/Pong/Pong:15/AP3A.240905.015.A2/2501141430:user/release-keys",
+      "display": "AP3A.240905.015.A2",
+      "id": "AP3A.240905.015.A2",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1260x2800",
+      "dpi": 480
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; A065 Build/AP3A.240905.015.A2)"
+  },
+  {
+    "name": "Motorola Edge 50 Ultra",
+    "channel": "googleplay",
+    "build": {
+      "brand": "motorola",
+      "manufacturer": "motorola",
+      "model": "XT2419-1",
+      "device": "arcfox",
+      "product": "arcfox_g",
+      "hardware": "qcom",
+      "fingerprint": "motorola/arcfox_g/arcfox:15/V1UJS35H.88-16-1/1c2c3:user/release-keys",
+      "display": "V1UJS35H.88-16-1",
+      "id": "V1UJS35H.88-16-1",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1220x2712",
+      "dpi": 446
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; XT2419-1 Build/V1UJS35H.88-16-1)"
+  },
+  {
+    "name": "ASUS ROG Phone 9",
+    "channel": "googleplay",
+    "build": {
+      "brand": "asus",
+      "manufacturer": "asus",
+      "model": "AI2401",
+      "device": "ASUS_AI2401",
+      "product": "WW_AI2401",
+      "hardware": "qcom",
+      "fingerprint": "asus/WW_AI2401/ASUS_AI2401:15/AP3A.240905.015.A2/35.1010.1010.46:user/release-keys",
+      "display": "AP3A.240905.015.A2",
+      "id": "AP3A.240905.015.A2",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-02-01"
+    },
+    "display": {
+      "resolution": "1080x2400",
+      "dpi": 420
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; AI2401 Build/AP3A.240905.015.A2)"
+  },
+  {
+    "name": "Sony Xperia 1 VI",
+    "channel": "googleplay",
+    "build": {
+      "brand": "Sony",
+      "manufacturer": "Sony",
+      "model": "XQ-EC72",
+      "device": "pdx245",
+      "product": "XQ-EC72",
+      "hardware": "qcom",
+      "fingerprint": "Sony/XQ-EC72/XQ-EC72:15/AP3A.240905.015.A2/68.2.A.0.491:user/release-keys",
+      "display": "AP3A.240905.015.A2",
+      "id": "AP3A.240905.015.A2",
+      "release": "15",
+      "sdk_int": 35,
+      "security_patch": "2025-01-01"
+    },
+    "display": {
+      "resolution": "1080x2520",
+      "dpi": 420
+    },
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; XQ-EC72 Build/AP3A.240905.015.A2)"
+  }
+]

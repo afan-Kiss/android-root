@@ -1,0 +1,70 @@
+{
+  "appId": "1128",
+  "channel": "googleplay",
+  "sdkVersion": "v04.10.04.01-bugfix",
+  "license": "bo95dJizD1WFcV03zOuLzN5Pn1sFtVa3szqiVQmflMJTNW0p0Kpqfw8D4i0zUlfrou4kuYt/i0521YRygM83dwv/wn3DD+TMJF+QFzW9wb8Qq2/1B4jPMbObrDNdyMMukpAYqy1fLWtbLGVIPxsFsZegwQy5lsRX9h49PH/Qx8MwgYvWvH7ZTFLV28LwTWZiljQyBPaBE+TsyumEu0Y+JRkeidHFEYcVs0yRoa+xC004hugQhdPupIt6dBiWA4phsB3fNJZjFTAKGE1lPB4gzt6Qf+FmlgZBbRvT8zekxTV2HZ5dUvSutB2/0QpbHKAvWL4DRA==",
+  "apiHost": "https://api5-normal.amemv.com",
+  "appRegisterConfig": [
+    "1128",
+    "",
+    "",
+    "bo95dJizD1WFcV03zOuLzN5Pn1sFtVa3szqiVQmflMJTNW0p0Kpqfw8D4i0zUlfrou4kuYt/i0521YRygM83dwv/wn3DD+TMJF+QFzW9wb8Qq2/1B4jPMbObrDNdyMMukpAYqy1fLWtbLGVIPxsFsZegwQy5lsRX9h49PH/Qx8MwgYvWvH7ZTFLV28LwTWZiljQyBPaBE+TsyumEu0Y+JRkeidHFEYcVs0yRoa+xC004hugQhdPupIt6dBiWA4phsB3fNJZjFTAKGE1lPB4gzt6Qf+FmlgZBbRvT8zekxTV2HZ5dUvSutB2/0QpbHKAvWL4DRA==",
+    "v04.10.04.01-bugfix",
+    "googleplay",
+    "2820717910446359",
+    "",
+    "2820717910450455",
+    "",
+    "0",
+    "-1",
+    "810",
+    "",
+    "0",
+    [],
+    [
+      "tk_key",
+      "douyin"
+    ]
+  ],
+  "msdataPath": "E:\\douyin-android-sign\\config\\msdata",
+  "packageName": "com.ss.android.ugc.aweme",
+  "androidId": "d40c457b48c0802b",
+  "appVersion": "40.7.0",
+  "versionCode": "400701",
+  "manifestVersionCode": "400701",
+  "updateVersionCode": "40709900",
+  "userAgent": "Dalvik/2.1.0 (Linux; U; Android 15; PGZ110 Build/AP3A.240617.008)",
+  "openudid": "d40c457b48c0802b",
+  "hostAbi": "arm64-v8a",
+  "deviceId": "2820717910446359",
+  "installId": "2820717910450455",
+  "build": {
+    "brand": "OnePlus",
+    "manufacturer": "OnePlus",
+    "model": "PGZ110",
+    "device": "OP5911",
+    "product": "PGZ110",
+    "hardware": "mt6895",
+    "fingerprint": "OnePlus/PGZ110/OP5911:15/AP3A.240617.008/S.220ffe6-1-10985e:user/release-keys",
+    "display": "PGZ110_15.0.0.1600(CN01)",
+    "id": "AP3A.240617.008",
+    "release": "15",
+    "codename": "REL",
+    "security_patch": "2026-01-01",
+    "sdk_int": 35
+  },
+  "display": {
+    "resolution": "1080x2246",
+    "dpi": 480
+  },
+  "mssdkPrefs": {
+    "1128-0-0-sdi": "aff22ea649d685f0a7a3693432bd728c8e0ea4c3f6fa9c51faad5a6a50e9d0a8b03f385e0bd7475a",
+    "1128-0-0-ecneuq": "1",
+    "1128-0-0-semithc": "1a160050c5c",
+    "sdi_token": "aff22ea649d685f0a7a3693432bd728c8e0ea4c3f6fa9c51faad5a6a50e9d0a8b03f385e0bd7475a",
+    "1128-1128-sdi": "aff22ea649d685f0a7a3693432bd728c8e0ea4c3f6fa9c51faad5a6a50e9d0a8b03f385e0bd7475a",
+    "1128-0-167774bf518c11948aa0784351ccf5a9": "80dd151582403f5a",
+    "1128-0-risk_app_key_cache": "80dd151582403f5a",
+    "1128-0-sdi": "aff22ea649d685f0a7a3693432bd728c8e0ea4c3f6fa9c51faad5a6a50e9d0a8b03f385e0bd7475a"
+  }
+}

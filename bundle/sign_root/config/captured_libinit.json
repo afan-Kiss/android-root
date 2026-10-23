@@ -1,0 +1,20 @@
+[
+  {
+    "kind": "libinit",
+    "arg": 268435459,
+    "handle": "0",
+    "str_len": 0,
+    "str_head": null,
+    "obj": "null",
+    "ret": "java.lang.Integer:-1"
+  },
+  {
+    "kind": "libinit",
+    "arg": 268435459,
+    "handle": "0",
+    "str_len": 0,
+    "str_head": null,
+    "obj": "String[undefined]=[]",
+    "ret": "java.lang.Integer:1"
+  }
+]

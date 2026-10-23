@@ -1,0 +1,5243 @@
+[
+  {
+    "kind": "hooked",
+    "target": "com.bytedance.mobsec.metasec.ml.MS.b"
+  },
+  {
+    "kind": "hook_fail",
+    "target": "ms.bd.c.k.b",
+    "err": "TypeError: cannot read property 'overload' of undefined"
+  },
+  {
+    "kind": "hook_fail",
+    "target": "ms.bd.c.k.a",
+    "err": "TypeError: cannot read property 'overload' of undefined"
+  },
+  {
+    "kind": "ready"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000000e",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "libinit",
+    "arg": 268435459,
+    "handle": "0",
+    "obj": "null",
+    "ret": "java.lang.Integer:-1"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10003",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x2000001",
+    "arg": 0,
+    "handle": "485197811288",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x2000002",
+    "arg": 0,
+    "handle": "485197811288",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "libinit",
+    "arg": 268435459,
+    "handle": "0",
+    "obj": "String[undefined]",
+    "ret": "java.lang.Integer:1"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x30004",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100001e",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000001",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000026",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000027",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10001",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10002",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10008",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20001",
+    "arg": 0,
+    "handle": "0",
+    "str": "{\n\t\"host_aid\":\t\"1128\",\n\t\"sdk_aid\":\t\"3019\",\n\t\"device_id\":\t\"1114274615011440\",\n\t\"c",
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x30005",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_init_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000011",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_reqsign",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002c",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000009",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100000a",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000000b",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000006",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000000a",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000012",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000000f",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100003a",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100003b",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "sdk_init_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000039",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10007",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x30001",
+    "arg": 0,
+    "handle": "0",
+    "str": "https://mssdk.bytedance.com/pilvinen/v1/sseelfk/haku?lc_id=1588093228&aid=1128&a",
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000005",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000001",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000006",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000017",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100001f",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000020",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000021",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000006",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000009",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100000a",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000032",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000033",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000002",
+    "arg": 0,
+    "handle": "0",
+    "str": "android",
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000048",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000034",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000035",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000012",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000044",
+    "arg": 0,
+    "handle": "0",
+    "str": "bdms_alias_cp1",
+    "obj": "[B"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000046",
+    "arg": 0,
+    "handle": "0",
+    "str": "bdms_alias_cp2",
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000045",
+    "arg": 0,
+    "handle": "0",
+    "str": "bdms_alias_cp2",
+    "obj": "java.security.KeyPairGenerator$Delegate"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000001",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002f",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002f",
+    "arg": 0,
+    "handle": "1",
+    "str": null,
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002f",
+    "arg": 0,
+    "handle": "1",
+    "str": null,
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000000c",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000010",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000012",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100001c",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000000c",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000000d",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100001a",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000009",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000017",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100001b",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100001c",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10006",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000010",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000011",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000012",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000010",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x30001",
+    "arg": 0,
+    "handle": "0",
+    "str": "https://mssdk.bytedance.com/sdi/get_token?lc_id=1588093228&platform=android&devi",
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "secdeviceid",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000002",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000038",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000049",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002b",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000040",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002e",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002d",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000009",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000036",
+    "arg": 0,
+    "handle": "0",
+    "str": "caijing_initialization",
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000036",
+    "arg": 1,
+    "handle": "0",
+    "str": "caijing_initialization",
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000019",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000013",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000003",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000002",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000023",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204|1128-0-167774bf518c11948aa0784351ccf5a9",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "sdk_risk_report",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000010",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x30001",
+    "arg": 0,
+    "handle": "0",
+    "str": "https://mssdk.bytedance.com/ri/report?lc_id=1588093228&platform=android&device_p",
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000018",
+    "arg": 0,
+    "handle": "0",
+    "str": "com.bytedance.shell.TTSECINFO",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "risk_inspect",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 1,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 1,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000017",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100001f",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000020",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000021",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000006",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000009",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100000a",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000032",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000033",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000002",
+    "arg": 0,
+    "handle": "0",
+    "str": "android",
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000048",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000034",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000035",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000012",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002f",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002f",
+    "arg": 0,
+    "handle": "1",
+    "str": null,
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002f",
+    "arg": 0,
+    "handle": "1",
+    "str": null,
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100001c",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000000c",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000003",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000038",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000049",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002b",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000040",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002e",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002d",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000009",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000036",
+    "arg": 0,
+    "handle": "0",
+    "str": "cold_start",
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000036",
+    "arg": 1,
+    "handle": "0",
+    "str": "cold_start",
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000013",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000003",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000002",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000023",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204|1128-0-167774bf518c11948aa0784351ccf5a9",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000010",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x30001",
+    "arg": 0,
+    "handle": "0",
+    "str": "https://mssdk.bytedance.com/ri/report?lc_id=1588093228&platform=android&device_p",
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000018",
+    "arg": 0,
+    "handle": "0",
+    "str": "com.bytedance.shell.TTSECINFO",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "risk_inspect",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 1,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 1,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000017",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100001f",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000020",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000021",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000006",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000009",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100000a",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000032",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000033",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000002",
+    "arg": 0,
+    "handle": "0",
+    "str": "android",
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000048",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000034",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000035",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x10000012",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x20002",
+    "arg": 0,
+    "handle": "0",
+    "str": "http_sign_gen_all",
+    "obj": "String[undefined]"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002f",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002f",
+    "arg": 0,
+    "handle": "1",
+    "str": null,
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002f",
+    "arg": 0,
+    "handle": "1",
+    "str": null,
+    "obj": "[Ljava.lang.Object;"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100001c",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000000c",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000022",
+    "arg": 0,
+    "handle": "0",
+    "str": "d8b674543fc0b023b69f6a3f5a0f287d458ea204",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000041",
+    "arg": 0,
+    "handle": "0",
+    "str": "%s",
+    "obj": "java.lang.String"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000038",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000049",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002b",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x1000040",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002e",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  },
+  {
+    "kind": "kb",
+    "cls": "com.bytedance.mobsec.metasec.ml.MS",
+    "method": "b",
+    "op": "0x100002d",
+    "arg": 0,
+    "handle": "0",
+    "str": null,
+    "obj": "null"
+  }
+]
